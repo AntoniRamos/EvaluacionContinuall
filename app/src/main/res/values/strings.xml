@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">evc2</string>
+    <string name="register_app_name">Bienvenido</string>
+    <string name="register_title">Registrate</string>
+    <string name="register_input_hint_fullName">Nombre Completo</string>
+    <string name="register_fullName_input_content_description_end_icon">Nombre Completo</string>
+    <string name="register_fullName_input_hint">Nombre Completo</string>
+    <string name="register_nickname_input_hint">Apodo</string>
+    <string name="register_nickname_input_content_description_end_icon">Apodo</string>
+    <string name="register_phoneNumber_input_hint">Numero de Celular</string>
+    <string name="register_phoneNumber_input_content_description_end_icon">Numero de Celular</string>
+    <string name="register_password_input_hint">Contraseña</string>
+    <string name="register_password_input_content_description_end_icon">Contraseña</string>
+    <string name="login_title">Iniciar Sesion</string>
+    <string name="register_gym">NORDIC POWER ZONE</string>
+</resources>
